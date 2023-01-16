@@ -28,9 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Music Player criado com intuito de fortalecer conhecimetnos de HTML e CSS
+Music Player criado com intuito de fortalecer conhecimentos de HTML e CSS
 
-- [Acesse o projeto finalizado, online](https://my-links-me.vercel.app/)
+- [Acesse o projeto finalizado, online](https://music-player-nine-azure.vercel.app/)
 
 ## :memo: Licença
 
